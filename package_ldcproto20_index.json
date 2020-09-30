@@ -11,11 +11,11 @@
         {
           "name": "LDC Proto Control Boards",
           "architecture": "samd",
-          "version": "1.5.7",
+          "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/LDC-Engineering/protoboard_packages/whack-1.5.7.zip?raw=true",
-          "archiveFileName": "whack-1.5.7.zip",
-          "checksum": "SHA-256:d7e1beb95db8b00a805ee92d01f4eca30018dd02ec2933ab18affb83d125560a",
+          "url": "https://github.com/LDC-Engineering/protoboard_packages/whack-1.0.0.zip?raw=true",
+          "archiveFileName": "whack-1.0.0.zip",
+          "checksum": "SHA-256:80556746cb4d54254d3d6fe23281cf9934f37f4e87a77b948afd4dae8c4681e4",
           "size": "6210533",
           "boards": [
 			{
