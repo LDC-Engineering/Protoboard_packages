@@ -2,7 +2,7 @@
   "packages":
   [
     {
-      "name": "Proto Control",
+      "name": "LDC Development",
       "maintainer": "LDC Engineering",
       "websiteURL": "www.loradicarlo.com",
 	  "email" : "wes@loradicarlo.com",
@@ -15,8 +15,8 @@
           "category": "Contributed",
           "url": "https://github.com/LDC-Engineering/protoboard_packages/blob/master/whack-1.0.0.zip?raw=true",
           "archiveFileName": "whack-1.0.0.zip",
-          "checksum": "SHA-256:80556746cb4d54254d3d6fe23281cf9934f37f4e87a77b948afd4dae8c4681e4",
-          "size": "6210533",
+          "checksum": "SHA-256:9e70708766f43f805be918eb7e7f0efdef1fd5925de24824663f3061792be83a",
+          "size": "6332868",
           "boards": [
 			{
 			  "name": "PC4V1 M0"
