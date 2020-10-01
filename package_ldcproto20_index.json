@@ -15,8 +15,8 @@
           "category": "Contributed",
           "url": "https://github.com/LDC-Engineering/protoboard_packages/blob/master/whack-1.0.0.zip?raw=true",
           "archiveFileName": "whack-1.0.0.zip",
-          "checksum": "SHA-256:9e70708766f43f805be918eb7e7f0efdef1fd5925de24824663f3061792be83a",
-          "size": "6332868",
+          "checksum": "SHA-256:dfe5e845c53c6f891bd8042479fc3616f424a7fd916ab778a46f64322d2bf2e6",
+          "size": "6307376",
           "boards": [
 			{
 			  "name": "PC4V1 M0"
